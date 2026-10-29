@@ -1,7 +1,7 @@
 # internship_monitor
 
 A new Flutter project.
-
+POGI KO
 ## Getting Started
 
 This project is a starting point for a Flutter application.
